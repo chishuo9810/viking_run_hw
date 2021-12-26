@@ -1,7 +1,0 @@
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\bin\Debug\W3_practice_1.exe.config
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\bin\Debug\W3_practice_1.exe
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\obj\Debug\W3_practice_1.csproj.CoreCompileInputs.cache
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\obj\Debug\W3_practice_1.exe
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\obj\Debug\W3_practice_1.pdb
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\obj\Debug\W3_practice_1.csprojAssemblyReference.cache
-C:\Users\chish\source\repos\W3_practice_1\W3_practice_1\bin\Debug\W3_practice_1.pdb

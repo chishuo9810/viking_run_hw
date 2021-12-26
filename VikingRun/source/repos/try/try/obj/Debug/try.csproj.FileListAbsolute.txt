@@ -1,7 +1,0 @@
-C:\Users\chish\source\repos\try\try\obj\Debug\try.csprojAssemblyReference.cache
-C:\Users\chish\source\repos\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
-C:\Users\chish\source\repos\try\try\bin\Debug\@try.exe.config
-C:\Users\chish\source\repos\try\try\bin\Debug\@try.exe
-C:\Users\chish\source\repos\try\try\bin\Debug\@try.pdb
-C:\Users\chish\source\repos\try\try\obj\Debug\@try.exe
-C:\Users\chish\source\repos\try\try\obj\Debug\@try.pdb
