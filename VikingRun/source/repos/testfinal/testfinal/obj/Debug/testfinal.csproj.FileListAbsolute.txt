@@ -1,0 +1,7 @@
+C:\Users\chish\source\repos\testfinal\testfinal\bin\Debug\testfinal.exe.config
+C:\Users\chish\source\repos\testfinal\testfinal\bin\Debug\testfinal.exe
+C:\Users\chish\source\repos\testfinal\testfinal\bin\Debug\testfinal.pdb
+C:\Users\chish\source\repos\testfinal\testfinal\obj\Debug\testfinal.csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\testfinal\testfinal\obj\Debug\testfinal.exe
+C:\Users\chish\source\repos\testfinal\testfinal\obj\Debug\testfinal.pdb
+C:\Users\chish\source\repos\testfinal\testfinal\obj\Debug\testfinal.csprojAssemblyReference.cache

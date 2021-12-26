@@ -1,0 +1,7 @@
+C:\Users\chish\source\repos\w3homework1\w3homework1\bin\Debug\w3homework1.exe.config
+C:\Users\chish\source\repos\w3homework1\w3homework1\bin\Debug\w3homework1.exe
+C:\Users\chish\source\repos\w3homework1\w3homework1\bin\Debug\w3homework1.pdb
+C:\Users\chish\source\repos\w3homework1\w3homework1\obj\Debug\w3homework1.csprojAssemblyReference.cache
+C:\Users\chish\source\repos\w3homework1\w3homework1\obj\Debug\w3homework1.csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\w3homework1\w3homework1\obj\Debug\w3homework1.exe
+C:\Users\chish\source\repos\w3homework1\w3homework1\obj\Debug\w3homework1.pdb

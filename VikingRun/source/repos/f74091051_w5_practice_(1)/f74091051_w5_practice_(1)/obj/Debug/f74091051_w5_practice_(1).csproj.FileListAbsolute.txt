@@ -1,0 +1,10 @@
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\bin\Debug\f74091051_w5_practice_(1).exe.config
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\bin\Debug\f74091051_w5_practice_(1).exe
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\bin\Debug\f74091051_w5_practice_(1).pdb
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice_(1).csprojAssemblyReference.cache
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice__1_.Form1.resources
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice__1_.Properties.Resources.resources
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice_(1).csproj.GenerateResource.cache
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice_(1).csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice_(1).exe
+C:\Users\chish\source\repos\f74091051_w5_practice_(1)\f74091051_w5_practice_(1)\obj\Debug\f74091051_w5_practice_(1).pdb

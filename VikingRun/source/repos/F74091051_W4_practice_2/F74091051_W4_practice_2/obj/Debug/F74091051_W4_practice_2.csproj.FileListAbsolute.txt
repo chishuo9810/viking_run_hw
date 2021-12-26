@@ -1,0 +1,7 @@
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\bin\Debug\F74091051_W4_practice_2.exe.config
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\bin\Debug\F74091051_W4_practice_2.exe
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\bin\Debug\F74091051_W4_practice_2.pdb
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\obj\Debug\F74091051_W4_practice_2.csprojAssemblyReference.cache
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\obj\Debug\F74091051_W4_practice_2.csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\obj\Debug\F74091051_W4_practice_2.exe
+C:\Users\chish\source\repos\F74091051_W4_practice_2\F74091051_W4_practice_2\obj\Debug\F74091051_W4_practice_2.pdb
