@@ -13,3 +13,7 @@ Bonus:
 music、a road a player needs to run aside、死亡後畫面會顯示最後得分
 
 Github:https://github.com/chishuo9810/viking_run_hw.git
+
+Feedback:
+我覺得試著自己寫遊戲發現實在不簡單，要寫出一個有功能的遊戲來進行不難，但是抓bug
+永遠抓不完...
