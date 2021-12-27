@@ -12,4 +12,4 @@ My game:
 Bonus:
 music、a road a player needs to run aside、死亡後畫面會顯示最後得分
 
-Github:
+Github:https://github.com/chishuo9810/viking_run_hw.git
